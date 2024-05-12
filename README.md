@@ -7,6 +7,15 @@ We will also use
 	2. SQL Analytics
 	3. Amazon S3 (Simple Storage Service)
 
+Python Libraries utilized.
+
+1. pandas :	Clean and prepare data (e.g., handling missing values), Create new features (e.g., veteran status), Perform data analysis (e.g., finding top scorers)
+2. numpy : 	Perform numerical computations (if needed for feature engineering or analysis)
+3. matplotlib.pyplot :	Create basic visualizations (plots) to explore data
+4. seaborn :	Create advanced statistical visualizations to understand data relationships
+
+
+
 
 						==========================================================
 								    ABOUT THE PROJECT
